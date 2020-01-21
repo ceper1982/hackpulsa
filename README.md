@@ -1,4 +1,3 @@
 # hackpulsa
-just for fun
-
-<img src="https://ibb.co/nCPJ0fG" width="250" height="250">
+1. How to use hackpulsa [`Watch it`](https://youtu.be/MYALOb6K_bc) 
+2. Fork it...
